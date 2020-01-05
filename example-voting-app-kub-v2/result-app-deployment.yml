@@ -12,6 +12,7 @@ spec:
      name: result-app-pod
      app: demo-voting-app
   template:
+    name: result-app-pod
     labels:
       name: result-app-pod
       app: demo-voting-app
